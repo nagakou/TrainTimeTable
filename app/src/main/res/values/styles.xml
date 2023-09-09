@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources
+    xmlns:android="http://schemas.android.com/apk/res/android">
     <style name="AppTheme" parent="@android:style/Theme.DeviceDefault">
         <item name="android:windowSwipeToDismiss">false</item>
-        <item name="windowSplashScreenBackground">@color/common_google_signin_btn_text_dark</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.SplashScreen.IconBackground">
+        <item name="windowSplashScreenBackground">@color/common_google_signin_btn_text_dark_disabled</item>
         <item name="windowSplashScreenAnimatedIcon">@drawable/keio</item>
     </style>
 </resources>

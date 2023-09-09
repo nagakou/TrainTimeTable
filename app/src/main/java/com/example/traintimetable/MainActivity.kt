@@ -323,6 +323,7 @@ class MainActivity : Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
+        setTheme(R.style.AppTheme)
         setContentView(binding.root)
         setContentView(R.layout.activity_main)
         val directory = File(this.filesDir.path+"/timetable")
