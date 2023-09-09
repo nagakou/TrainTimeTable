@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="STA_NAME">
+        <item>駅名</item>
+        <item>新宿</item>
+        <item>初台</item>
+        <item>幡ヶ谷</item>
+        <item>笹塚</item>
+        <item>代田橋</item>
+        <item>明大前</item>
+        <item>下高井戸</item>
+        <item>桜上水</item>
+        <item>上北沢</item>
+        <item>八幡山</item>
+        <item>芦花公園</item>
+        <item>千歳烏山</item>
+        <item>仙川</item>
+        <item>つつじが丘</item>
+        <item>柴崎</item>
+        <item>国領</item>
+        <item>布田</item>
+        <item>調布</item>
+        <item>西調布</item>
+        <item>飛田給</item>
+        <item>武蔵野台</item>
+        <item>多磨霊園</item>
+        <item>東府中</item>
+        <item>府中</item>
+        <item>分倍河原</item>
+        <item>中河原</item>
+        <item>聖蹟桜ヶ丘</item>
+        <item>百草園</item>
+        <item>高幡不動</item>
+        <item>南平</item>
+        <item>平山城址公園</item>
+        <item>長沼</item>
+        <item>北野</item>
+        <item>京王八王子</item>
+        <item>京王多摩川</item>
+        <item>京王稲田堤</item>
+        <item>京王よみうりランド</item>
+        <item>稲城</item>
+        <item>若葉台</item>
+        <item>京王永山</item>
+        <item>京王多摩センター</item>
+        <item>京王堀之内</item>
+        <item>南大沢</item>
+        <item>多摩境</item>
+        <item>橋本</item>
+        <item>府中競馬正門前</item>
+        <item>多摩動物公園</item>
+        <item>京王片倉</item>
+        <item>山田</item>
+        <item>めじろ台</item>
+        <item>狭間</item>
+        <item>高尾</item>
+        <item>高尾山口</item>
+    </string-array>
+    <string-array name="STA_NAME_INO">
+        <item>駅名</item>
+        <item>渋谷</item>
+        <item>神泉</item>
+        <item>駒場東大前</item>
+        <item>池ノ上</item>
+        <item>下北沢</item>
+        <item>新代田</item>
+        <item>東松原</item>
+        <item>明大前</item>
+        <item>永福町</item>
+        <item>西永福</item>
+        <item>浜田山</item>
+        <item>高井戸</item>
+        <item>富士見ヶ丘</item>
+        <item>久我山</item>
+        <item>三鷹台</item>
+        <item>井の頭公園</item>
+        <item>吉祥寺</item>
+    </string-array>
+    <string-array name="STA_NAME_TOEI">
+        <item>駅名</item>
+        <item>新宿</item>
+        <item>新宿三丁目</item>
+        <item>曙橋</item>
+        <item>市ヶ谷</item>
+        <item>九段下</item>
+        <item>神保町</item>
+        <item>小川町</item>
+        <item>岩本町</item>
+        <item>馬喰横山</item>
+        <item>浜町</item>
+        <item>森下</item>
+        <item>菊川</item>
+        <item>住吉</item>
+        <item>西大島</item>
+        <item>大島</item>
+        <item>東大島</item>
+        <item>船堀</item>
+        <item>一之江</item>
+        <item>瑞江</item>
+        <item>篠崎</item>
+        <item>本八幡</item>
+    </string-array>
+    <string-array name="KO01"><item></item>
+        <item>京王線 京王八王子・橋本・高尾山口 方面</item>
+        <item>京王新線 京王八王子・橋本・高尾山口 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="KO02"><item></item>
+        <item>京王新線 新線新宿・都営線本八幡 方面</item>
+        <item>京王新線 京王八王子・橋本・高尾山口 方面</item>
+    </string-array>
+    <string-array name="KO03"><item></item>
+        <item>京王新線 新線新宿・都営線本八幡 方面</item>
+        <item>京王新線 京王八王子・橋本・高尾山口 方面</item>
+    </string-array>
+    <string-array name="KO04"><item></item>
+        <item>京王線 京王八王子・橋本・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+        <item>京王新線 新線新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO05"><item></item>
+        <item>京王線 京王八王子・橋本・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO06"><item></item>
+        <item>京王線 京王八王子・橋本・高尾山口 方面</item>
+        <item>京王線 新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO07"><item></item>
+        <item>京王線 京王八王子・橋本・高尾山口 方面</item>
+        <item>京王線 新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO08"><item></item>
+        <item>京王線 京王八王子・橋本・高尾山口 方面</item>
+        <item>京王線 新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO09"><item></item>
+        <item>京王線 京王八王子・橋本・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO10"><item></item>
+        <item>京王線 京王八王子・橋本・高尾山口 方面</item>
+        <item>京王線 新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO11"><item></item>
+        <item>京王線 京王八王子・橋本・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO12"><item></item>
+        <item>京王線 京王八王子・橋本・高尾山口 方面</item>
+        <item>京王線 新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO13"><item></item>
+        <item>京王線 京王八王子・橋本・高尾山口 方面</item>
+        <item>京王線 新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO14"><item></item>
+        <item>京王線 京王八王子・橋本・高尾山口 方面</item>
+        <item>京王線 新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO15"><item></item>
+        <item>京王線 京王八王子・橋本・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO16"><item></item>
+        <item>京王線 京王八王子・橋本・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO17"><item></item>
+        <item>京王線 京王八王子・橋本・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO18"><item></item>
+        <item>京王線 京王八王子・高尾山口 方面</item>
+        <item>京王線 新宿・都営線本八幡 方面</item>
+        <item>相模原線 京王多摩センター・橋本 方面</item>
+    </string-array>
+    <string-array name="KO19"><item></item>
+        <item>京王線 京王八王子・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO20"><item></item>
+        <item>京王線 京王八王子・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO21"><item></item>
+        <item>京王線 京王八王子・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO22"><item></item>
+        <item>京王線 京王八王子・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO23"><item></item>
+        <item>京王線 京王八王子・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+        <item>競馬場線 府中競馬正門前 方面</item>
+    </string-array>
+    <string-array name="KO24"><item></item>
+        <item>京王線 京王八王子・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO25"><item></item>
+        <item>京王線 京王八王子・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO26"><item></item>
+        <item>京王線 京王八王子・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO27"><item></item>
+        <item>京王線 京王八王子・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO28"><item></item>
+        <item>京王線 京王八王子・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO29"><item></item>
+        <item>京王線 京王八王子・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+        <item>動物園線 多摩動物公園 方面</item>
+    </string-array>
+    <string-array name="KO30"><item></item>
+        <item>京王線 京王八王子・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO31"><item></item>
+        <item>京王線 京王八王子・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO32"><item></item>
+        <item>京王線 京王八王子・高尾山口 方面</item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO33"><item></item>
+        <item>京王線 京王八王子 方面</item>
+        <item>京王線 新宿 方面</item>
+        <item>高尾線 高尾山口 方面</item>
+    </string-array>
+    <string-array name="KO34"><item></item>
+        <item>京王線 新宿 方面</item>
+    </string-array>
+    <string-array name="KO35"><item></item>
+        <item>相模原線 京王多摩センター・橋本 方面</item>
+        <item>相模原線 調布・新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO36"><item></item>
+        <item>相模原線 京王多摩センター・橋本 方面</item>
+        <item>相模原線 調布・新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO37"><item></item>
+        <item>相模原線 京王多摩センター・橋本 方面</item>
+        <item>相模原線 調布・新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO38"><item></item>
+        <item>相模原線 京王多摩センター・橋本 方面</item>
+        <item>相模原線 調布・新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO39"><item></item>
+        <item>相模原線 京王多摩センター・橋本 方面</item>
+        <item>相模原線 調布・新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO40"><item></item>
+        <item>相模原線 橋本 方面</item>
+        <item>相模原線 調布・新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO41"><item></item>
+        <item>相模原線 橋本 方面</item>
+        <item>相模原線 調布・新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO42"><item></item>
+        <item>相模原線 橋本 方面</item>
+        <item>相模原線 調布・新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO43"><item></item>
+        <item>相模原線 橋本 方面</item>
+        <item>相模原線 調布・新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO44"><item></item>
+        <item>相模原線 橋本 方面</item>
+        <item>相模原線 調布・新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO45"><item></item>
+        <item>相模原線 調布・新宿・都営線本八幡 方面</item>
+    </string-array>
+    <string-array name="KO46"><item></item>
+        <item>競馬場線 東府中 方面</item>
+    </string-array>
+    <string-array name="KO47"><item></item>
+        <item>動物園線 高幡不動・新宿 方面</item>
+    </string-array>
+    <string-array name="KO48"><item></item>
+        <item>高尾線 高尾山口 方面</item>
+        <item>高尾線 北野・新宿 方面</item>
+    </string-array>
+    <string-array name="KO49"><item></item>
+        <item>高尾線 高尾山口 方面</item>
+        <item>高尾線 北野・新宿 方面</item>
+    </string-array>
+    <string-array name="KO50"><item></item>
+        <item>高尾線 高尾山口 方面</item>
+        <item>高尾線 北野・新宿 方面</item>
+    </string-array>
+    <string-array name="KO51"><item></item>
+        <item>高尾線 高尾山口 方面</item>
+        <item>高尾線 北野・新宿 方面</item>
+    </string-array>
+    <string-array name="KO52"><item></item>
+        <item>高尾線 高尾山口 方面</item>
+        <item>高尾線 北野・新宿 方面</item>
+    </string-array>
+    <string-array name="KO53"><item></item>
+        <item>高尾線 北野・新宿 方面</item>
+    </string-array>
+    <string-array name="IN01"><item></item>
+        <item>井の頭線 吉祥寺方面</item>
+    </string-array>
+    <string-array name="IN02"><item></item>
+        <item>井の頭線 渋谷 方面</item>
+        <item>井の頭線 吉祥寺 方面</item>
+    </string-array>
+    <string-array name="IN03"><item></item>
+        <item>井の頭線 渋谷 方面</item>
+        <item>井の頭線 吉祥寺 方面</item>
+    </string-array>
+    <string-array name="IN04"><item></item>
+        <item>井の頭線 渋谷 方面</item>
+        <item>井の頭線 吉祥寺 方面</item>
+    </string-array>
+    <string-array name="IN05"><item></item>
+        <item>井の頭線 渋谷 方面</item>
+        <item>井の頭線 吉祥寺 方面</item>
+    </string-array>
+    <string-array name="IN06"><item></item>
+        <item>井の頭線 渋谷 方面</item>
+        <item>井の頭線 吉祥寺 方面</item>
+    </string-array>
+    <string-array name="IN07"><item></item>
+        <item>井の頭線 渋谷 方面</item>
+        <item>井の頭線 吉祥寺 方面</item>
+    </string-array>
+    <string-array name="IN08"><item></item>
+        <item>井の頭線 渋谷 方面</item>
+        <item>井の頭線 吉祥寺 方面</item>
+    </string-array>
+    <string-array name="IN09"><item></item>
+        <item>井の頭線 渋谷 方面</item>
+        <item>井の頭線 吉祥寺 方面</item>
+    </string-array>
+    <string-array name="IN10"><item></item>
+        <item>井の頭線 渋谷 方面</item>
+        <item>井の頭線 吉祥寺 方面</item>
+    </string-array>
+    <string-array name="IN11"><item></item>
+        <item>井の頭線 渋谷 方面</item>
+        <item>井の頭線 吉祥寺 方面</item>
+    </string-array>
+    <string-array name="IN12"><item></item>
+        <item>井の頭線 渋谷 方面</item>
+        <item>井の頭線 吉祥寺 方面</item>
+    </string-array>
+    <string-array name="IN13"><item></item>
+        <item>井の頭線 渋谷 方面</item>
+        <item>井の頭線 吉祥寺 方面</item>
+    </string-array>
+    <string-array name="IN14"><item></item>
+        <item>井の頭線 渋谷 方面</item>
+        <item>井の頭線 吉祥寺 方面</item>
+    </string-array>
+    <string-array name="IN15"><item></item>
+        <item>井の頭線 渋谷 方面</item>
+        <item>井の頭線 吉祥寺 方面</item>
+    </string-array>
+    <string-array name="IN16"><item></item>
+        <item>井の頭線 渋谷 方面</item>
+        <item>井の頭線 吉祥寺 方面</item>
+    </string-array>
+    <string-array name="IN17"><item></item>
+        <item>井の頭線 渋谷 方面</item>
+    </string-array>
+    <string-array name="S01"><item></item>
+        <item>京王新線 京王八王子・橋本・高尾山口 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S02"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S03"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S04"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S05"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S06"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S07"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S08"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S09"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S10"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S11"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S12"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S13"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S14"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+
+    <string-array name="S15"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S16"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S17"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S18"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S19"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S20"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+        <item>都営新宿線 本八幡 方面</item>
+    </string-array>
+    <string-array name="S21"><item></item>
+        <item>都営新宿線 新宿・京王線 方面</item>
+    </string-array>
+    <string-array name="KO01w"><item></item>
+        <item>data/KO-01/weekday/line1_1.csv</item>
+        <item>data/KO-01/weekday/line2_0.csv</item>
+        <item>data/KO-01/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="KO02w"><item></item>
+        <item>data/KO-02/weekday/line2_1.csv</item>
+        <item>data/KO-02/weekday/line2_0.csv</item>
+    </string-array>
+    <string-array name="KO03w"><item></item>
+        <item>data/KO-03/weekday/line2_1.csv</item>
+        <item>data/KO-03/weekday/line2_0.csv</item>
+    </string-array>
+    <string-array name="KO04w"><item></item>
+        <item>data/KO-04/weekday/line1_1.csv</item>
+        <item>data/KO-04/weekday/line1_0.csv</item>
+        <item>data/KO-04/weekday/line2_1.csv</item>
+    </string-array>
+    <string-array name="KO05w"><item></item>
+        <item>data/KO-05/weekday/line1_1.csv</item>
+        <item>data/KO-05/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO06w"><item></item>
+        <item>data/KO-06/weekday/line1_1.csv</item>
+        <item>data/KO-06/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO07w"><item></item>
+        <item>data/KO-07/weekday/line1_1.csv</item>
+        <item>data/KO-07/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO08w"><item></item>
+        <item>data/KO-08/weekday/line1_1.csv</item>
+        <item>data/KO-08/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO09w"><item></item>
+        <item>data/KO-09/weekday/line1_1.csv</item>
+        <item>data/KO-09/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO10w"><item></item>
+        <item>data/KO-10/weekday/line1_1.csv</item>
+        <item>data/KO-10/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO11w"><item></item>
+        <item>data/KO-11/weekday/line1_1.csv</item>
+        <item>data/KO-11/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO12w"><item></item>
+        <item>data/KO-12/weekday/line1_1.csv</item>
+        <item>data/KO-12/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO13w"><item></item>
+        <item>data/KO-13/weekday/line1_1.csv</item>
+        <item>data/KO-13/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO14w"><item></item>
+        <item>data/KO-14/weekday/line1_1.csv</item>
+        <item>data/KO-14/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO15w"><item></item>
+        <item>data/KO-15/weekday/line1_1.csv</item>
+        <item>data/KO-15/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO16w"><item></item>
+        <item>data/KO-16/weekday/line1_1.csv</item>
+        <item>data/KO-16/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO17w"><item></item>
+        <item>data/KO-17/weekday/line1_1.csv</item>
+        <item>data/KO-17/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO18w"><item></item>
+        <item>data/KO-18/weekday/line1_1.csv</item>
+        <item>data/KO-18/weekday/line1_0.csv</item>
+        <item>data/KO-18/weekday/line3_1.csv</item>
+    </string-array>
+    <string-array name="KO19w"><item></item>
+        <item>data/KO-19/weekday/line1_1.csv</item>
+        <item>data/KO-19/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO20w"><item></item>
+        <item>data/KO-20/weekday/line1_1.csv</item>
+        <item>data/KO-20/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO21w"><item></item>
+        <item>data/KO-21/weekday/line1_1.csv</item>
+        <item>data/KO-21/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO22w"><item></item>
+        <item>data/KO-22/weekday/line1_1.csv</item>
+        <item>data/KO-22/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO23w"><item></item>
+        <item>data/KO-23/weekday/line1_1.csv</item>
+        <item>data/KO-23/weekday/line1_0.csv</item>
+        <item>data/KO-23/weekday/line5_1.csv</item>
+    </string-array>
+    <string-array name="KO24w"><item></item>
+        <item>data/KO-24/weekday/line1_1.csv</item>
+        <item>data/KO-24/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO25w"><item></item>
+        <item>data/KO-25/weekday/line1_1.csv</item>
+        <item>data/KO-25/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO26w"><item></item>
+        <item>data/KO-26/weekday/line1_1.csv</item>
+        <item>data/KO-26/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO27w"><item></item>
+        <item>data/KO-27/weekday/line1_1.csv</item>
+        <item>data/KO-27/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO28w"><item></item>
+        <item>data/KO-28/weekday/line1_1.csv</item>
+        <item>data/KO-28/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO29w"><item></item>
+        <item>data/KO-29/weekday/line1_1.csv</item>
+        <item>data/KO-29/weekday/line1_0.csv</item>
+        <item>data/KO-29/weekday/line6_1.csv</item>
+    </string-array>
+    <string-array name="KO30w"><item></item>
+        <item>data/KO-30/weekday/line1_1.csv</item>
+        <item>data/KO-30/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO31w"><item></item>
+        <item>data/KO-31/weekday/line1_1.csv</item>
+        <item>data/KO-31/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO32w"><item></item>
+        <item>data/KO-32/weekday/line1_1.csv</item>
+        <item>data/KO-32/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO33w"><item></item>
+        <item>data/KO-33/weekday/line1_1.csv</item>
+        <item>data/KO-33/weekday/line1_0.csv</item>
+        <item>data/KO-33/weekday/line4_1.csv</item>
+    </string-array>
+    <string-array name="KO34w"><item></item>
+        <item>data/KO-34/weekday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO35w"><item></item>
+        <item>data/KO-35/weekday/line3_1.csv</item>
+        <item>data/KO-35/weekday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO36w"><item></item>
+        <item>data/KO-36/weekday/line3_1.csv</item>
+        <item>data/KO-36/weekday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO37w"><item></item>
+        <item>data/KO-37/weekday/line3_1.csv</item>
+        <item>data/KO-37/weekday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO38w"><item></item>
+        <item>data/KO-38/weekday/line3_1.csv</item>
+        <item>data/KO-38/weekday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO39w"><item></item>
+        <item>data/KO-39/weekday/line3_1.csv</item>
+        <item>data/KO-39/weekday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO40w"><item></item>
+        <item>data/KO-40/weekday/line3_1.csv</item>
+        <item>data/KO-40/weekday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO41w"><item></item>
+        <item>data/KO-41/weekday/line3_1.csv</item>
+        <item>data/KO-41/weekday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO42w"><item></item>
+        <item>data/KO-42/weekday/line3_1.csv</item>
+        <item>data/KO-42/weekday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO43w"><item></item>
+        <item>data/KO-43/weekday/line3_1.csv</item>
+        <item>data/KO-43/weekday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO44w"><item></item>
+        <item>data/KO-44/weekday/line3_1.csv</item>
+        <item>data/KO-44/weekday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO45w"><item></item>
+        <item>data/KO-45/weekday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO46w"><item></item>
+        <item>data/KO-46/weekday/line5_0.csv</item>
+    </string-array>
+    <string-array name="KO47w"><item></item>
+        <item>data/KO-47/weekday/line6_0.csv</item>
+    </string-array>
+    <string-array name="KO48w"><item></item>
+        <item>data/KO-48/weekday/line4_1.csv</item>
+        <item>data/KO-48/weekday/line4_0.csv</item>
+    </string-array>
+    <string-array name="KO49w"><item></item>
+        <item>data/KO-49/weekday/line4_1.csv</item>
+        <item>data/KO-49/weekday/line4_0.csv</item>
+    </string-array>
+    <string-array name="KO50w"><item></item>
+        <item>data/KO-50/weekday/line4_1.csv</item>
+        <item>data/KO-50/weekday/line4_0.csv</item>
+    </string-array>
+    <string-array name="KO51w"><item></item>
+        <item>data/KO-51/weekday/line4_1.csv</item>
+        <item>data/KO-51/weekday/line4_0.csv</item>
+    </string-array>
+    <string-array name="KO52w"><item></item>
+        <item>data/KO-52/weekday/line4_1.csv</item>
+        <item>data/KO-52/weekday/line4_0.csv</item>
+    </string-array>
+    <string-array name="KO53w"><item></item>
+        <item>data/KO-53/weekday/line4_0.csv</item>
+    </string-array>
+    <string-array name="IN01w"><item></item>
+        <item>data/IN-01/weekday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN02w"><item></item>
+        <item>data/IN-02/weekday/line7_0.csv</item>
+        <item>data/IN-02/weekday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN03w"><item></item>
+        <item>data/IN-03/weekday/line7_0.csv</item>
+        <item>data/IN-03/weekday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN04w"><item></item>
+        <item>data/IN-04/weekday/line7_0.csv</item>
+        <item>data/IN-04/weekday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN05w"><item></item>
+        <item>data/IN-05/weekday/line7_0.csv</item>
+        <item>data/IN-05/weekday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN06w"><item></item>
+        <item>data/IN-06/weekday/line7_0.csv</item>
+        <item>data/IN-06/weekday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN07w"><item></item>
+        <item>data/IN-07/weekday/line7_0.csv</item>
+        <item>data/IN-07/weekday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN08w"><item></item>
+        <item>data/IN-08/weekday/line7_0.csv</item>
+        <item>data/IN-08/weekday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN09w"><item></item>
+        <item>data/IN-09/weekday/line7_0.csv</item>
+        <item>data/IN-09/weekday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN10w"><item></item>
+        <item>data/IN-10/weekday/line7_0.csv</item>
+        <item>data/IN-10/weekday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN11w"><item></item>
+        <item>data/IN-11/weekday/line7_0.csv</item>
+        <item>data/IN-11/weekday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN12w"><item></item>
+        <item>data/IN-12/weekday/line7_0.csv</item>
+        <item>data/IN-12/weekday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN13w"><item></item>
+        <item>data/IN-13/weekday/line7_0.csv</item>
+        <item>data/IN-13/weekday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN14w"><item></item>
+        <item>data/IN-14/weekday/line7_0.csv</item>
+        <item>data/IN-14/weekday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN15w"><item></item>
+        <item>data/IN-15/weekday/line7_0.csv</item>
+    </string-array>
+    <string-array name="IN16w"><item></item>
+        <item>data/IN-16/weekday/line7_0.csv</item>
+        <item>data/IN-16/weekday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN17w"><item></item>
+        <item>data/IN-17/weekday/line7_0.csv</item>
+        <item>data/IN-17/weekday/line7_1.csv</item>
+    </string-array>
+    <string-array name="S01w"><item></item>
+        <item>data/KO-01/weekday/line2_0.csv</item>
+        <item>data/KO-01/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S02w"><item></item>
+        <item>data/S-02/weekday/line8_0.csv</item>
+        <item>data/S-02/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S03w"><item></item>
+        <item>data/S-03/weekday/line8_0.csv</item>
+        <item>data/S-03/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S04w"><item></item>
+        <item>data/S-04/weekday/line8_0.csv</item>
+        <item>data/S-04/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S05w"><item></item>
+        <item>data/S-05/weekday/line8_0.csv</item>
+        <item>data/S-05/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S06w"><item></item>
+        <item>data/S-06/weekday/line8_0.csv</item>
+        <item>data/S-06/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S07w"><item></item>
+        <item>data/S-07/weekday/line8_0.csv</item>
+        <item>data/S-07/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S08w"><item></item>
+        <item>data/S-08/weekday/line8_0.csv</item>
+        <item>data/S-08/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S09w"><item></item>
+        <item>data/S-09/weekday/line8_0.csv</item>
+        <item>data/S-09/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S10w"><item></item>
+        <item>data/S-10/weekday/line8_0.csv</item>
+        <item>data/S-10/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S11w"><item></item>
+        <item>data/S-11/weekday/line8_0.csv</item>
+        <item>data/S-11/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S12w"><item></item>
+        <item>data/S-12/weekday/line8_0.csv</item>
+        <item>data/S-12/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S13w"><item></item>
+        <item>data/S-13/weekday/line8_0.csv</item>
+        <item>data/S-13/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S14w"><item></item>
+        <item>data/S-14/weekday/line8_0.csv</item>
+        <item>data/S-14/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S15w"><item></item>
+        <item>data/S-15/weekday/line8_0.csv</item>
+        <item>data/S-15/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S16w"><item></item>
+        <item>data/S-16/weekday/line8_0.csv</item>
+        <item>data/S-16/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S17w"><item></item>
+        <item>data/S-17/weekday/line8_0.csv</item>
+        <item>data/S-17/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S18w"><item></item>
+        <item>data/S-18/weekday/line8_0.csv</item>
+        <item>data/S-18/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S19w"><item></item>
+        <item>data/S-19/weekday/line8_0.csv</item>
+        <item>data/S-19/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S20w"><item></item>
+        <item>data/S-20/weekday/line8_0.csv</item>
+        <item>data/S-20/weekday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S21w"><item></item>
+        <item>data/S-21/weekday/line8_0.csv</item>
+    </string-array>
+    <string-array name="KO01h"><item></item>
+        <item>data/KO-01/holiday/line1_1.csv</item>
+        <item>data/KO-01/holiday/line2_0.csv</item>
+        <item>data/KO-01/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="KO02h"><item></item>
+        <item>data/KO-02/holiday/line2_1.csv</item>
+        <item>data/KO-02/holiday/line2_0.csv</item>
+    </string-array>
+    <string-array name="KO03h"><item></item>
+        <item>data/KO-03/holiday/line2_1.csv</item>
+        <item>data/KO-03/holiday/line2_0.csv</item>
+    </string-array>
+    <string-array name="KO04h"><item></item>
+        <item>data/KO-04/holiday/line1_1.csv</item>
+        <item>data/KO-04/holiday/line1_0.csv</item>
+        <item>data/KO-04/holiday/line2_1.csv</item>
+    </string-array>
+    <string-array name="KO05h"><item></item>
+        <item>data/KO-05/holiday/line1_1.csv</item>
+        <item>data/KO-05/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO06h"><item></item>
+        <item>data/KO-06/holiday/line1_1.csv</item>
+        <item>data/KO-06/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO07h"><item></item>
+        <item>data/KO-07/holiday/line1_1.csv</item>
+        <item>data/KO-07/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO08h"><item></item>
+        <item>data/KO-08/holiday/line1_1.csv</item>
+        <item>data/KO-08/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO09h"><item></item>
+        <item>data/KO-09/holiday/line1_1.csv</item>
+        <item>data/KO-09/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO10h"><item></item>
+        <item>data/KO-10/holiday/line1_1.csv</item>
+        <item>data/KO-10/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO11h"><item></item>
+        <item>data/KO-11/holiday/line1_1.csv</item>
+        <item>data/KO-11/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO12h"><item></item>
+        <item>data/KO-12/holiday/line1_1.csv</item>
+        <item>data/KO-12/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO13h"><item></item>
+        <item>data/KO-13/holiday/line1_1.csv</item>
+        <item>data/KO-13/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO14h"><item></item>
+        <item>data/KO-14/holiday/line1_1.csv</item>
+        <item>data/KO-14/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO15h"><item></item>
+        <item>data/KO-15/holiday/line1_1.csv</item>
+        <item>data/KO-15/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO16h"><item></item>
+        <item>data/KO-16/holiday/line1_1.csv</item>
+        <item>data/KO-16/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO17h"><item></item>
+        <item>data/KO-17/holiday/line1_1.csv</item>
+        <item>data/KO-17/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO18h"><item></item>
+        <item>data/KO-18/holiday/line1_1.csv</item>
+        <item>data/KO-18/holiday/line1_0.csv</item>
+        <item>data/KO-18/holiday/line3_1.csv</item>
+    </string-array>
+    <string-array name="KO19h"><item></item>
+        <item>data/KO-19/holiday/line1_1.csv</item>
+        <item>data/KO-19/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO20h"><item></item>
+        <item>data/KO-20/holiday/line1_1.csv</item>
+        <item>data/KO-20/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO21h"><item></item>
+        <item>data/KO-21/holiday/line1_1.csv</item>
+        <item>data/KO-21/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO22h"><item></item>
+        <item>data/KO-22/holiday/line1_1.csv</item>
+        <item>data/KO-22/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO23h"><item></item>
+        <item>data/KO-23/holiday/line1_1.csv</item>
+        <item>data/KO-23/holiday/line1_0.csv</item>
+        <item>data/KO-23/holiday/line5_1.csv</item>
+    </string-array>
+    <string-array name="KO24h"><item></item>
+        <item>data/KO-24/holiday/line1_1.csv</item>
+        <item>data/KO-24/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO25h"><item></item>
+        <item>data/KO-25/holiday/line1_1.csv</item>
+        <item>data/KO-25/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO26h"><item></item>
+        <item>data/KO-26/holiday/line1_1.csv</item>
+        <item>data/KO-26/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO27h"><item></item>
+        <item>data/KO-27/holiday/line1_1.csv</item>
+        <item>data/KO-27/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO28h"><item></item>
+        <item>data/KO-28/holiday/line1_1.csv</item>
+        <item>data/KO-28/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO29h"><item></item>
+        <item>data/KO-29/holiday/line1_1.csv</item>
+        <item>data/KO-29/holiday/line1_0.csv</item>
+        <item>data/KO-29/holiday/line6_1.csv</item>
+    </string-array>
+    <string-array name="KO30h"><item></item>
+        <item>data/KO-30/holiday/line1_1.csv</item>
+        <item>data/KO-30/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO31h"><item></item>
+        <item>data/KO-31/holiday/line1_1.csv</item>
+        <item>data/KO-31/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO32h"><item></item>
+        <item>data/KO-32/holiday/line1_1.csv</item>
+        <item>data/KO-32/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO33h"><item></item>
+        <item>data/KO-33/holiday/line1_1.csv</item>
+        <item>data/KO-33/holiday/line1_0.csv</item>
+        <item>data/KO-33/holiday/line4_1.csv</item>
+    </string-array>
+    <string-array name="KO34h"><item></item>
+        <item>data/KO-34/holiday/line1_0.csv</item>
+    </string-array>
+    <string-array name="KO35h"><item></item>
+        <item>data/KO-35/holiday/line3_1.csv</item>
+        <item>data/KO-35/holiday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO36h"><item></item>
+        <item>data/KO-36/holiday/line3_1.csv</item>
+        <item>data/KO-36/holiday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO37h"><item></item>
+        <item>data/KO-37/holiday/line3_1.csv</item>
+        <item>data/KO-37/holiday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO38h"><item></item>
+        <item>data/KO-38/holiday/line3_1.csv</item>
+        <item>data/KO-38/holiday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO39h"><item></item>
+        <item>data/KO-39/holiday/line3_1.csv</item>
+        <item>data/KO-39/holiday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO40h"><item></item>
+        <item>data/KO-40/holiday/line3_1.csv</item>
+        <item>data/KO-40/holiday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO41h"><item></item>
+        <item>data/KO-41/holiday/line3_1.csv</item>
+        <item>data/KO-41/holiday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO42h"><item></item>
+        <item>data/KO-42/holiday/line3_1.csv</item>
+        <item>data/KO-42/holiday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO43h"><item></item>
+        <item>data/KO-43/holiday/line3_1.csv</item>
+        <item>data/KO-43/holiday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO44h"><item></item>
+        <item>data/KO-44/holiday/line3_1.csv</item>
+        <item>data/KO-44/holiday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO45h"><item></item>
+        <item>data/KO-45/holiday/line3_0.csv</item>
+    </string-array>
+    <string-array name="KO46h"><item></item>
+        <item>data/KO-46/holiday/line5_0.csv</item>
+    </string-array>
+    <string-array name="KO47h"><item></item>
+        <item>data/KO-47/holiday/line6_0.csv</item>
+    </string-array>
+    <string-array name="KO48h"><item></item>
+        <item>data/KO-48/holiday/line4_1.csv</item>
+        <item>data/KO-48/holiday/line4_0.csv</item>
+    </string-array>
+    <string-array name="KO49h"><item></item>
+        <item>data/KO-49/holiday/line4_1.csv</item>
+        <item>data/KO-49/holiday/line4_0.csv</item>
+    </string-array>
+    <string-array name="KO50h"><item></item>
+        <item>data/KO-50/holiday/line4_1.csv</item>
+        <item>data/KO-50/holiday/line4_0.csv</item>
+    </string-array>
+    <string-array name="KO51h"><item></item>
+        <item>data/KO-51/holiday/line4_1.csv</item>
+        <item>data/KO-51/holiday/line4_0.csv</item>
+    </string-array>
+    <string-array name="KO52h"><item></item>
+        <item>data/KO-52/holiday/line4_1.csv</item>
+        <item>data/KO-52/holiday/line4_0.csv</item>
+    </string-array>
+    <string-array name="KO53h"><item></item>
+        <item>data/KO-53/holiday/line4_0.csv</item>
+    </string-array>
+    <string-array name="IN01h"><item></item>
+        <item>data/IN-01/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN02h"><item></item>
+        <item>data/IN-02/holiday/line7_0.csv</item>
+        <item>data/IN-02/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN03h"><item></item>
+        <item>data/IN-03/holiday/line7_0.csv</item>
+        <item>data/IN-03/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN04h"><item></item>
+        <item>data/IN-04/holiday/line7_0.csv</item>
+        <item>data/IN-04/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN05h"><item></item>
+        <item>data/IN-05/holiday/line7_0.csv</item>
+        <item>data/IN-05/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN06h"><item></item>
+        <item>data/IN-06/holiday/line7_0.csv</item>
+        <item>data/IN-06/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN07h"><item></item>
+        <item>data/IN-07/holiday/line7_0.csv</item>
+        <item>data/IN-07/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN08h"><item></item>
+        <item>data/IN-08/holiday/line7_0.csv</item>
+        <item>data/IN-08/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN09h"><item></item>
+        <item>data/IN-09/holiday/line7_0.csv</item>
+        <item>data/IN-09/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN10h"><item></item>
+        <item>data/IN-10/holiday/line7_0.csv</item>
+        <item>data/IN-10/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN11h"><item></item>
+        <item>data/IN-11/holiday/line7_0.csv</item>
+        <item>data/IN-11/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN12h"><item></item>
+        <item>data/IN-12/holiday/line7_0.csv</item>
+        <item>data/IN-12/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN13h"><item></item>
+        <item>data/IN-13/holiday/line7_0.csv</item>
+        <item>data/IN-13/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN14h"><item></item>
+        <item>data/IN-14/holiday/line7_0.csv</item>
+        <item>data/IN-14/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN15h"><item></item>
+        <item>data/IN-15/holiday/line7_0.csv</item>
+        <item>data/IN-15/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN16h"><item></item>
+        <item>data/IN-16/holiday/line7_0.csv</item>
+        <item>data/IN-16/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="IN17h"><item></item>
+        <item>data/IN-17/holiday/line7_0.csv</item>
+        <item>data/IN-17/holiday/line7_1.csv</item>
+    </string-array>
+    <string-array name="S01h"><item></item>
+        <item>data/S-01/holiday/line2_0.csv</item>
+        <item>data/S-01/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S02h"><item></item>
+        <item>data/S-02/holiday/line8_0.csv</item>
+        <item>data/S-02/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S03h"><item></item>
+        <item>data/S-03/holiday/line8_0.csv</item>
+        <item>data/S-03/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S04h"><item></item>
+        <item>data/S-04/holiday/line8_0.csv</item>
+        <item>data/S-04/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S05h"><item></item>
+        <item>data/S-05/holiday/line8_0.csv</item>
+        <item>data/S-05/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S06h"><item></item>
+        <item>data/S-06/holiday/line8_0.csv</item>
+        <item>data/S-06/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S07h"><item></item>
+        <item>data/S-07/holiday/line8_0.csv</item>
+        <item>data/S-07/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S08h"><item></item>
+        <item>data/S-08/holiday/line8_0.csv</item>
+        <item>data/S-08/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S09h"><item></item>
+        <item>data/S-09/holiday/line8_0.csv</item>
+        <item>data/S-09/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S10h"><item></item>
+        <item>data/S-10/holiday/line8_0.csv</item>
+        <item>data/S-10/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S11h"><item></item>
+        <item>data/S-11/holiday/line8_0.csv</item>
+        <item>data/S-11/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S12h"><item></item>
+        <item>data/S-12/holiday/line8_0.csv</item>
+        <item>data/S-12/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S13h"><item></item>
+        <item>data/S-13/holiday/line8_0.csv</item>
+        <item>data/S-13/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S14h"><item></item>
+        <item>data/S-14/holiday/line8_0.csv</item>
+        <item>data/S-14/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S15h"><item></item>
+        <item>data/S-15/holiday/line8_0.csv</item>
+        <item>data/S-15/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S16h"><item></item>
+        <item>data/S-16/holiday/line8_0.csv</item>
+        <item>data/S-16/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S17h"><item></item>
+        <item>data/S-17/holiday/line8_0.csv</item>
+        <item>data/S-17/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S18h"><item></item>
+        <item>data/S-18/holiday/line8_0.csv</item>
+        <item>data/S-18/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S19h"><item></item>
+        <item>data/S-19/holiday/line8_0.csv</item>
+        <item>data/S-19/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S20h"><item></item>
+        <item>data/S-20/holiday/line8_0.csv</item>
+        <item>data/S-20/holiday/line8_1.csv</item>
+    </string-array>
+    <string-array name="S21h"><item></item>
+        <item>data/S-21/holiday/line8_0.csv</item>
+    </string-array>
+</resources>
