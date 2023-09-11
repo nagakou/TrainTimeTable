@@ -24,7 +24,6 @@ import android.widget.AdapterView.OnItemClickListener
 import androidx.core.app.ActivityCompat
 import androidx.core.math.MathUtils
 import androidx.core.net.toUri
-import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.core.view.isVisible
 import com.example.traintimetable.databinding.ActivityMainBinding
 import com.google.android.gms.location.*
